@@ -1,0 +1,58 @@
+.d-block,.block{
+  display: $d-block;
+}
+.d-inline,.inline{
+  display: $d-inline;
+}
+.d-none,.hide{
+  display: $d-none;
+}
+.d-grid,.grid{
+  display: $d-grid;
+}
+.d-inline-block,.inline-block{
+  display: $d-inline-block;
+}
+.d-inline-grid,.inline-grid{
+  display:$d-inline-grid;
+}
+.d-flex,.flex{
+  display: $d-flex;
+}
+.d-inline-flex,.inline-flex{
+  display: $d-inline-flex;
+}
+.d-table{
+  display: $d-table;
+}
+.d-table-caption{
+  display: $d-table-caption;
+}
+.d-table-cell{
+  display: $d-table-cell
+}
+.d-table-column{
+  display: $d-table-column
+}
+.d-table-column-group{
+  display: $d-table-column-group
+}
+.d-table.footer-group{
+  display: $d-table-footer-group;
+}
+
+.d-table.header-group{
+  display: $d-table-header-group;
+}
+.d-table-row{
+  display: $d-table-row;
+}
+.d-table-row-group{
+  display: $d-table-row-group;
+}
+.d-compact,.compact{
+  display: $d-compact;
+}
+.d-list-item,.list-item{
+  display: $d-list-item;
+}

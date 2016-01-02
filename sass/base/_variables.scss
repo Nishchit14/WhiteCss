@@ -1,0 +1,81 @@
+/* Global Variables
+/**  For Margin and Padding */
+
+$mp-xxs:2px;
+$mp-xs :5px;
+$mp-sm :10px;
+$mp-md :15px;
+$mp-lg :30px;
+$mp-xlg:50px;
+$mp-xxlg:50px;
+
+
+
+/**  For Font */
+
+$f-h1:2em;
+$f-h2 :1.5em;
+$f-h3 :1.17em;
+$f-h4 :1.00em;
+$f-h5 :0.83em;
+$f-h6 :0.67em;
+
+/** For Block */
+
+$d-block:block;
+$d-inline:inline;
+$d-none:none;
+$d-grid:grid;
+$d-inline-block:inline-block;
+$d-inline-grid:inline-grid;
+$d-flex:flex;
+$d-inline-flex:inline-flex;
+$d-table:table;
+
+$d-table-cell: table-cell;
+$d-table-column: table-column;
+$d-table-column-group: table-column-group ;
+$d-table-header-group: table-header-group;
+$d-table-row-group: table-row-group;
+$d-table-footer-group: table-footer-group;
+$d-table-row: table-row;
+$d-table-caption: table-caption;
+$d-compact:compact;
+$d-list-item:list-item;
+
+
+/* border */
+$primarycolor:#2e6da4;
+$successcolor:#398439;
+$defaultcolor:#ccc;
+$infocolor:#269abc;
+$warningcolor:#d58512;
+$dangercolor:#d43f3a;
+
+
+
+/*  Vertical Align */
+$v-baseline:baseline;
+$v-sub:sub;
+$v-super:super;
+$v-top:top;
+$v-text-top:text-top;
+$v-middle:middle;
+$v-bottom:bottom;
+$v-text-bottom:text-bottom;
+$v-initial:initial;
+
+/* Align Content  */
+
+
+$align-stretch:stretch;
+$align-center:center;
+$align-flex-start:flex-start;
+$align-flex-end:flex-end;
+$align-space-between:space-between;
+$align-space-around:space-around;
+$align-initial:initial
+
+
+
+

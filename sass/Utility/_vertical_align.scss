@@ -1,0 +1,65 @@
+.v-baseline{
+  vertical-align:$v-baseline;
+}
+.v-sub{
+  vertical-align:$v-sub;
+}
+.v-super{
+  vertical-align: $v-super;
+}
+.v-top{
+  vertical-align: $v-top;
+}
+.v-text-top{
+  vertical-align: $v-text-top;
+}
+.v-middle{
+  vertical-align: $v-middle;
+}
+.v-bottom{
+  vertical-align: $v-bottom;
+}
+.v-text-bottom{
+  vertical-align: $v-text-bottom;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Content Align  */
+
+
+.content-stretch{
+  align-content: $align-stretch;
+}
+.content-centre,.content-center{
+  align-content: $align-center;
+}
+.content-flex-start{
+  align-content: $align-flex-start;
+}
+.content-flex-end{
+  align-content: $align-flex-end;
+}
+.content-space-between{
+  align-content: $align-space-between;
+}
+.content-space-around{
+  align-content: $align-space-around;
+}
+.content-initial{
+  align-content: $align-initial;
+}
+
+
+
+
+

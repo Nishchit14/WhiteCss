@@ -1,0 +1,33 @@
+.b{
+  width: 1px;
+}
+.b-b{
+  border-bottom-width: 1px;
+}
+.b-r{
+  border-right-width: 1px;
+}
+.b-l{
+  border-left-width: 1px;
+}
+.b-t{
+  border-top-width: 1px;
+}
+.b-c-primary{
+  border-color: $primarycolor;
+}
+.b-c-success{
+  border-color: $successcolor;
+}
+.b-c-default{
+  border-color: $defaultcolor;
+}
+.b-c-info{
+  border-color: $infocolor;
+}
+.b-c-warning{
+  border-color: $warningcolor;
+}
+.b-c-danger{
+  border-color: $dangercolor;
+}
