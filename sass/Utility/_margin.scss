@@ -34,24 +34,6 @@
 .m.rb-sm ,.m.br-sm{
   margin :0 $mp-sm $mp-sm 0
 }
-.m-lrb-sm,.m-rlb-sm,.m-rbl-sm,.m-blr-sm,.m-lbr-sm,.m-brl-sm{
-  margin :0 $mp-sm $mp-sm $mp-sm
-}
-.m-lrt-sm,.m-ltr-sm,.m-trl-sm,.m-tlr-sm,.m-rlt-sm,.m-rtl-sm{
-  margin: $mp-sm,$mp-sm,0,$mp-sm;
-}
-.m-rtb-sm,.m-rbt-sm,.m-tbr-sm,.m-trb-sm,.m-brt-sm,.m-btr-sm{
-  margin: $mp-sm,$mp-sm,$mp-sm,0;
-}
-.m-tlb-sm,.m-tbl-sm,.m-lbt-sm,.m-ltb-sm,.m-blt-sm,.m-btl-sm{
-  margin: $mp-sm,0,$mp-sm,$mp-sm;
-}
-
-
-
-
-
-
 
 /* Margin and padding lg size */
 .m-xxs {
@@ -88,18 +70,6 @@
 }
 .m.rb-xxs ,.m.br-xxs{
   margin :0 $mp-xxs $mp-xxs 0
-}
-.m-lrb-xxs,.m-rlb-xxs,.m-rbl-xxs,.m-blr-xxs,.m-lbr-xxs,.m-brl-xxs{
-  margin :0 $mp-xxs $mp-xxs $mp-xxs
-}
-.m-lrt-xxs,.m-ltr-xxs,.m-trl-xxs,.m-tlr-xxs,.m-rlt-xxs,.m-rtl-xxs{
-  margin: $mp-xs,$mp-xxs,0,$mp-xxs;
-}
-.m-rtb-xxs,.m-rbt-xxs,.m-tbr-xxs,.m-trb-xxs,.m-brt-xxs,.m-btr-xxs{
-  margin: $mp-xxs,$mp-xxs,$mp-xxs,0;
-}
-.m-tlb-xxs,.m-tbl-xxs,.m-lbt-xxs,.m-ltb-xxs,.m-blt-xxs,.m-btl-xxs{
-  margin: $mp-xxs,0,$mp-xxs,$mp-xxs;
 }
 
 
@@ -140,18 +110,6 @@
 .m.rb-xs ,.m.br-xs{
   margin :0 $mp-xs $mp-xs 0
 }
-.m-lrb-xs,.m-rlb-xs,.m-rbl-xs,.m-blr-xs,.m-lbr-xs,.m-brl-xs{
-  margin :0 $mp-xs $mp-xs $mp-xs
-}
-.m-lrt-xs,.m-ltr-xs,.m-trl-xs,.m-tlr-xs,.m-rlt-xs,.m-rtl-xs{
-  margin: $mp-xs,$mp-xs,0,$mp-xs;
-}
-.m-rtb-xs,.m-rbt-xs,.m-tbr-xs,.m-trb-xs,.m-brt-xs,.m-btr-xs{
-  margin: $mp-xs,$mp-xs,$mp-xs,0;
-}
-.m-tlb-xs,.m-tbl-xs,.m-lbt-xs,.m-ltb-xs,.m-blt-xs,.m-btl-xs{
-  margin: $mp-xs,0,$mp-xs,$mp-xs;
-}
 
 
 /* Margin and padding md size */
@@ -189,18 +147,6 @@
 }
 .m.rb-md ,.m.br-md{
   margin :0 $mp-md $mp-md 0
-}
-.m-lrb-md,.m-rlb-md,.m-rbl-md,.m-blr-md,.m-lbr-md,.m-brl-md{
-  margin :0 $mp-md $mp-md $mp-md
-}
-.m-lrt-md,.m-ltr-md,.m-trl-md,.m-tlr-md,.m-rlt-md,.m-rtl-md{
-  margin: $mp-md,$mp-md,0,$mp-md;
-}
-.m-rtb-md,.m-rbt-md,.m-tbr-md,.m-trb-md,.m-brt-md,.m-btr-md{
-  margin: $mp-md,$mp-md,$mp-md,0;
-}
-.m-tlb-md,.m-tbl-md,.m-lbt-md,.m-ltb-md,.m-blt-md,.m-btl-md{
-  margin: $mp-md,0,$mp-md,$mp-md;
 }
 
 
@@ -240,18 +186,6 @@
 .m.rb-lg ,.m.br-lg{
   margin :0 $mp-lg $mp-lg 0
 }
-.m-lrb-lg,.m-rlb-lg,.m-rbl-lg,.m-blr-lg,.m-lbr-lg,.m-brl-lg{
-  margin :0 $mp-lg $mp-lg $mp-lg
-}
-.m-lrt-lg,.m-ltr-lg,.m-trl-lg,.m-tlr-lg,.m-rlt-lg,.m-rtl-lg{
-  margin: $mp-lg,$mp-lg,0,$mp-lg;
-}
-.m-rtb-lg,.m-rbt-lg,.m-tbr-lg,.m-trb-lg,.m-brt-lg,.m-btr-lg{
-  margin: $mp-lg,$mp-lg,$mp-lg,0;
-}
-.m-tlb-lg,.m-tbl-lg,.m-lbt-lg,.m-ltb-lg,.m-blt-lg,.m-btl-lg{
-  margin: $mp-lg,0,$mp-lg,$mp-lg;
-}
 
 
 /* Margin and padding xlg size */
@@ -290,18 +224,6 @@
 .m.rb-xlg ,.m.br-xlg{
   margin :0 $mp-xlg $mp-xlg 0
 }
-.m-lrb-xlg,.m-rlb-xlg,.m-rbl-xlg,.m-blr-xlg,.m-lbr-xlg,.m-brl-xlg{
-  margin :0 $mp-xlg $mp-xlg $mp-xlg
-}
-.m-lrt-xlg,.m-ltr-xlg,.m-trl-xlg,.m-tlr-xlg,.m-rlt-xlg,.m-rtl-xlg{
-  margin: $mp-xlg,$mp-xlg,0,$mp-xlg;
-}
-.m-rtb-xlg,.m-rbt-xlg,.m-tbr-xlg,.m-trb-xlg,.m-brt-xlg,.m-btr-xlg{
-  margin: $mp-xlg,$mp-xlg,$mp-xlg,0;
-}
-.m-tlb-xlg,.m-tbl-xlg,.m-lbt-xlg,.m-ltb-xlg,.m-blt-xlg,.m-btl-xlg{
-  margin: $mp-xlg,0,$mp-xlg,$mp-xlg;
-}
 
 
 /* Margin and padding xxlg size */
@@ -339,18 +261,6 @@
 }
 .m.rb-xxlg ,.m.br-xxlg{
   margin :0 $mp-xxlg $mp-xxlg 0
-}
-.m-lrb-xxlg,.m-rlb-xxlg,.m-rbl-xxlg,.m-blr-xxlg,.m-lbr-xxlg,.m-brl-xxlg{
-  margin :0 $mp-xxlg $mp-xxlg $mp-xxlg
-}
-.m-lrt-xxlg,.m-ltr-xxlg,.m-trl-xxlg,.m-tlr-xxlg,.m-rlt-xxlg,.m-rtl-xxlg{
-  margin: $mp-xxlg,$mp-xxlg,0,$mp-xxlg;
-}
-.m-rtb-xxlg,.m-rbt-xxlg,.m-tbr-xxlg,.m-trb-xxlg,.m-brt-xxlg,.m-btr-xxlg{
-  margin: $mp-xxlg,$mp-xxlg,$mp-xxlg,0;
-}
-.m-tlb-xxlg,.m-tbl-xxlg,.m-lbt-xxlg,.m-ltb-xxlg,.m-blt-xxlg,.m-btl-xxlg{
-  margin: $mp-xxlg,0,$mp-xxlg,$mp-xxlg;
 }
 
 

@@ -36,18 +36,6 @@
 .m.rb-sm, .m.br-sm {
   margin: 0 10px 10px 0; }
 
-.m-lrb-sm, .m-rlb-sm, .m-rbl-sm, .m-blr-sm, .m-lbr-sm, .m-brl-sm {
-  margin: 0 10px 10px 10px; }
-
-.m-lrt-sm, .m-ltr-sm, .m-trl-sm, .m-tlr-sm, .m-rlt-sm, .m-rtl-sm {
-  margin: 10px, 10px, 0, 10px; }
-
-.m-rtb-sm, .m-rbt-sm, .m-tbr-sm, .m-trb-sm, .m-brt-sm, .m-btr-sm {
-  margin: 10px, 10px, 10px, 0; }
-
-.m-tlb-sm, .m-tbl-sm, .m-lbt-sm, .m-ltb-sm, .m-blt-sm, .m-btl-sm {
-  margin: 10px, 0, 10px, 10px; }
-
 /* Margin and padding lg size */
 .m-xxs {
   margin: 2px; }
@@ -78,18 +66,6 @@
 
 .m.rb-xxs, .m.br-xxs {
   margin: 0 2px 2px 0; }
-
-.m-lrb-xxs, .m-rlb-xxs, .m-rbl-xxs, .m-blr-xxs, .m-lbr-xxs, .m-brl-xxs {
-  margin: 0 2px 2px 2px; }
-
-.m-lrt-xxs, .m-ltr-xxs, .m-trl-xxs, .m-tlr-xxs, .m-rlt-xxs, .m-rtl-xxs {
-  margin: 5px, 2px, 0, 2px; }
-
-.m-rtb-xxs, .m-rbt-xxs, .m-tbr-xxs, .m-trb-xxs, .m-brt-xxs, .m-btr-xxs {
-  margin: 2px, 2px, 2px, 0; }
-
-.m-tlb-xxs, .m-tbl-xxs, .m-lbt-xxs, .m-ltb-xxs, .m-blt-xxs, .m-btl-xxs {
-  margin: 2px, 0, 2px, 2px; }
 
 /* Margin and padding xs size */
 .m-xs {
@@ -122,18 +98,6 @@
 .m.rb-xs, .m.br-xs {
   margin: 0 5px 5px 0; }
 
-.m-lrb-xs, .m-rlb-xs, .m-rbl-xs, .m-blr-xs, .m-lbr-xs, .m-brl-xs {
-  margin: 0 5px 5px 5px; }
-
-.m-lrt-xs, .m-ltr-xs, .m-trl-xs, .m-tlr-xs, .m-rlt-xs, .m-rtl-xs {
-  margin: 5px, 5px, 0, 5px; }
-
-.m-rtb-xs, .m-rbt-xs, .m-tbr-xs, .m-trb-xs, .m-brt-xs, .m-btr-xs {
-  margin: 5px, 5px, 5px, 0; }
-
-.m-tlb-xs, .m-tbl-xs, .m-lbt-xs, .m-ltb-xs, .m-blt-xs, .m-btl-xs {
-  margin: 5px, 0, 5px, 5px; }
-
 /* Margin and padding md size */
 .m-md {
   margin: 15px; }
@@ -164,18 +128,6 @@
 
 .m.rb-md, .m.br-md {
   margin: 0 15px 15px 0; }
-
-.m-lrb-md, .m-rlb-md, .m-rbl-md, .m-blr-md, .m-lbr-md, .m-brl-md {
-  margin: 0 15px 15px 15px; }
-
-.m-lrt-md, .m-ltr-md, .m-trl-md, .m-tlr-md, .m-rlt-md, .m-rtl-md {
-  margin: 15px, 15px, 0, 15px; }
-
-.m-rtb-md, .m-rbt-md, .m-tbr-md, .m-trb-md, .m-brt-md, .m-btr-md {
-  margin: 15px, 15px, 15px, 0; }
-
-.m-tlb-md, .m-tbl-md, .m-lbt-md, .m-ltb-md, .m-blt-md, .m-btl-md {
-  margin: 15px, 0, 15px, 15px; }
 
 /* Margin and padding lg size */
 .m-lg {
@@ -208,18 +160,6 @@
 .m.rb-lg, .m.br-lg {
   margin: 0 30px 30px 0; }
 
-.m-lrb-lg, .m-rlb-lg, .m-rbl-lg, .m-blr-lg, .m-lbr-lg, .m-brl-lg {
-  margin: 0 30px 30px 30px; }
-
-.m-lrt-lg, .m-ltr-lg, .m-trl-lg, .m-tlr-lg, .m-rlt-lg, .m-rtl-lg {
-  margin: 30px, 30px, 0, 30px; }
-
-.m-rtb-lg, .m-rbt-lg, .m-tbr-lg, .m-trb-lg, .m-brt-lg, .m-btr-lg {
-  margin: 30px, 30px, 30px, 0; }
-
-.m-tlb-lg, .m-tbl-lg, .m-lbt-lg, .m-ltb-lg, .m-blt-lg, .m-btl-lg {
-  margin: 30px, 0, 30px, 30px; }
-
 /* Margin and padding xlg size */
 .m-xlg {
   margin: 50px; }
@@ -250,18 +190,6 @@
 
 .m.rb-xlg, .m.br-xlg {
   margin: 0 50px 50px 0; }
-
-.m-lrb-xlg, .m-rlb-xlg, .m-rbl-xlg, .m-blr-xlg, .m-lbr-xlg, .m-brl-xlg {
-  margin: 0 50px 50px 50px; }
-
-.m-lrt-xlg, .m-ltr-xlg, .m-trl-xlg, .m-tlr-xlg, .m-rlt-xlg, .m-rtl-xlg {
-  margin: 50px, 50px, 0, 50px; }
-
-.m-rtb-xlg, .m-rbt-xlg, .m-tbr-xlg, .m-trb-xlg, .m-brt-xlg, .m-btr-xlg {
-  margin: 50px, 50px, 50px, 0; }
-
-.m-tlb-xlg, .m-tbl-xlg, .m-lbt-xlg, .m-ltb-xlg, .m-blt-xlg, .m-btl-xlg {
-  margin: 50px, 0, 50px, 50px; }
 
 /* Margin and padding xxlg size */
 .m-xxlg {
@@ -294,18 +222,6 @@
 .m.rb-xxlg, .m.br-xxlg {
   margin: 0 50px 50px 0; }
 
-.m-lrb-xxlg, .m-rlb-xxlg, .m-rbl-xxlg, .m-blr-xxlg, .m-lbr-xxlg, .m-brl-xxlg {
-  margin: 0 50px 50px 50px; }
-
-.m-lrt-xxlg, .m-ltr-xxlg, .m-trl-xxlg, .m-tlr-xxlg, .m-rlt-xxlg, .m-rtl-xxlg {
-  margin: 50px, 50px, 0, 50px; }
-
-.m-rtb-xxlg, .m-rbt-xxlg, .m-tbr-xxlg, .m-trb-xxlg, .m-brt-xxlg, .m-btr-xxlg {
-  margin: 50px, 50px, 50px, 0; }
-
-.m-tlb-xxlg, .m-tbl-xxlg, .m-lbt-xxlg, .m-ltb-xxlg, .m-blt-xxlg, .m-btl-xxlg {
-  margin: 50px, 0, 50px, 50px; }
-
 /* Margin and padding Sm size */
 .p-sm {
   margin: 10px; }
@@ -336,18 +252,6 @@
 
 .p.rb-sm, .p.br-sm {
   margin: 0 10px 10px 0; }
-
-.p-lrb-sm, .p-rlb-sm, .p-rbl-sm, .p-blr-sm, .p-lbr-sm, .p-brl-sm {
-  margin: 0 10px 10px 10px; }
-
-.p-lrt-sm, .p-ltr-sm, .p-trl-sm, .p-tlr-sm, .p-rlt-sm, .p-rtl-sm {
-  margin: 10px, 10px, 0, 10px; }
-
-.p-rtb-sm, .p-rbt-sm, .p-tbr-sm, .p-trb-sm, .p-brt-sm, .p-btr-sm {
-  margin: 10px, 10px, 10px, 0; }
-
-.p-tlb-sm, .p-tbl-sm, .p-lbt-sm, .p-ltb-sm, .p-blt-sm, .p-btl-sm {
-  margin: 10px, 0, 10px, 10px; }
 
 /* Margin and padding lg size */
 .p-xxs {
@@ -380,18 +284,6 @@
 .p.rb-xxs, .p.br-xxs {
   margin: 0 2px 2px 0; }
 
-.p-lrb-xxs, .p-rlb-xxs, .p-rbl-xxs, .p-blr-xxs, .p-lbr-xxs, .p-brl-xxs {
-  margin: 0 2px 2px 2px; }
-
-.p-lrt-xxs, .p-ltr-xxs, .p-trl-xxs, .p-tlr-xxs, .p-rlt-xxs, .p-rtl-xxs {
-  margin: 5px, 2px, 0, 2px; }
-
-.p-rtb-xxs, .p-rbt-xxs, .p-tbr-xxs, .p-trb-xxs, .p-brt-xxs, .p-btr-xxs {
-  margin: 2px, 2px, 2px, 0; }
-
-.p-tlb-xxs, .p-tbl-xxs, .p-lbt-xxs, .p-ltb-xxs, .p-blt-xxs, .p-btl-xxs {
-  margin: 2px, 0, 2px, 2px; }
-
 /* Margin and padding xs size */
 .p-xs {
   margin: 5px; }
@@ -422,18 +314,6 @@
 
 .p.rb-xs, .p.br-xs {
   margin: 0 5px 5px 0; }
-
-.p-lrb-xs, .p-rlb-xs, .p-rbl-xs, .p-blr-xs, .p-lbr-xs, .p-brl-xs {
-  margin: 0 5px 5px 5px; }
-
-.p-lrt-xs, .p-ltr-xs, .p-trl-xs, .p-tlr-xs, .p-rlt-xs, .p-rtl-xs {
-  margin: 5px, 5px, 0, 5px; }
-
-.p-rtb-xs, .p-rbt-xs, .p-tbr-xs, .p-trb-xs, .p-brt-xs, .p-btr-xs {
-  margin: 5px, 5px, 5px, 0; }
-
-.p-tlb-xs, .p-tbl-xs, .p-lbt-xs, .p-ltb-xs, .p-blt-xs, .p-btl-xs {
-  margin: 5px, 0, 5px, 5px; }
 
 /* Margin and padding md size */
 .p-md {
@@ -466,18 +346,6 @@
 .p.rb-md, .p.br-md {
   margin: 0 15px 15px 0; }
 
-.p-lrb-md, .p-rlb-md, .p-rbl-md, .p-blr-md, .p-lbr-md, .p-brl-md {
-  margin: 0 15px 15px 15px; }
-
-.p-lrt-md, .p-ltr-md, .p-trl-md, .p-tlr-md, .p-rlt-md, .p-rtl-md {
-  margin: 15px, 15px, 0, 15px; }
-
-.p-rtb-md, .p-rbt-md, .p-tbr-md, .p-trb-md, .p-brt-md, .p-btr-md {
-  margin: 15px, 15px, 15px, 0; }
-
-.p-tlb-md, .p-tbl-md, .p-lbt-md, .p-ltb-md, .p-blt-md, .p-btl-md {
-  margin: 15px, 0, 15px, 15px; }
-
 /* Margin and padding lg size */
 .p-lg {
   margin: 30px; }
@@ -508,18 +376,6 @@
 
 .p.rb-lg, .p.br-lg {
   margin: 0 30px 30px 0; }
-
-.p-lrb-lg, .p-rlb-lg, .p-rbl-lg, .p-blr-lg, .p-lbr-lg, .p-brl-lg {
-  margin: 0 30px 30px 30px; }
-
-.p-lrt-lg, .p-ltr-lg, .p-trl-lg, .p-tlr-lg, .p-rlt-lg, .p-rtl-lg {
-  margin: 30px, 30px, 0, 30px; }
-
-.p-rtb-lg, .p-rbt-lg, .p-tbr-lg, .p-trb-lg, .p-brt-lg, .p-btr-lg {
-  margin: 30px, 30px, 30px, 0; }
-
-.p-tlb-lg, .p-tbl-lg, .p-lbt-lg, .p-ltb-lg, .p-blt-lg, .p-btl-lg {
-  margin: 30px, 0, 30px, 30px; }
 
 /* Margin and padding xlg size */
 .p-xlg {
@@ -552,18 +408,6 @@
 .p.rb-xlg, .p.br-xlg {
   margin: 0 50px 50px 0; }
 
-.p-lrb-xlg, .p-rlb-xlg, .p-rbl-xlg, .p-blr-xlg, .p-lbr-xlg, .p-brl-xlg {
-  margin: 0 50px 50px 50px; }
-
-.p-lrt-xlg, .p-ltr-xlg, .p-trl-xlg, .p-tlr-xlg, .p-rlt-xlg, .p-rtl-xlg {
-  margin: 50px, 50px, 0, 50px; }
-
-.p-rtb-xlg, .p-rbt-xlg, .p-tbr-xlg, .p-trb-xlg, .p-brt-xlg, .p-btr-xlg {
-  margin: 50px, 50px, 50px, 0; }
-
-.p-tlb-xlg, .p-tbl-xlg, .p-lbt-xlg, .p-ltb-xlg, .p-blt-xlg, .p-btl-xlg {
-  margin: 50px, 0, 50px, 50px; }
-
 /* Margin and padding xxlg size */
 .p-xxlg {
   margin: 50px; }
@@ -594,18 +438,6 @@
 
 .p.rb-xxlg, .p.br-xxlg {
   margin: 0 50px 50px 0; }
-
-.p-lrb-xxlg, .p-rlb-xxlg, .p-rbl-xxlg, .p-blr-xxlg, .p-lbr-xxlg, .p-brl-xxlg {
-  margin: 0 50px 50px 50px; }
-
-.p-lrt-xxlg, .p-ltr-xxlg, .p-trl-xxlg, .p-tlr-xxlg, .p-rlt-xxlg, .p-rtl-xxlg {
-  margin: 50px, 50px, 0, 50px; }
-
-.p-rtb-xxlg, .p-rbt-xxlg, .p-tbr-xxlg, .p-trb-xxlg, .p-brt-xxlg, .p-btr-xxlg {
-  margin: 50px, 50px, 50px, 0; }
-
-.p-tlb-xxlg, .p-tbl-xxlg, .p-lbt-xxlg, .p-ltb-xxlg, .p-blt-xxlg, .p-btl-xxlg {
-  margin: 50px, 0, 50px, 50px; }
 
 .xs-font {
   font-size: 0.67em; }
