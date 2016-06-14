@@ -7,7 +7,7 @@ Css utility framework
 - [x] [Padding] (#2-padding)
 - [x] [Font] (#3-font)
 - [x] [Border] (#4-border)
-- [ ] Color
+- [x] [Color] (#5-Color)
 - [ ] Texography
 
 
@@ -89,3 +89,13 @@ Css utility framework
 | .b-info     | border-color: #269abc |
 | .b-warning  | border-color: #d58512 |
 | .b-danger   | border-color: #d43f3a |
+
+#### 5. Color
+| CLASS  | STYLE |
+|---| --- |
+| .bg-primary  | background-color: #2e6da4 |
+| .bg-success  | background-color: #398439 |
+| .bg-default  | background-color: #cccccc |
+| .bg-info     | background-color: #269abc |
+| .bg-warning  | background-color: #d58512 |
+| .bg-danger   | background-color: #d43f3a |

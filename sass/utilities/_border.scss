@@ -1,21 +1,26 @@
 .b {
   border-width: $border-width;
+  border-style: solid;
 }
 
 .b-t {
   border-top-width: $border-width;
+  border-style: solid;
 }
 
 .b-r {
   border-right-width: $border-width;
+  border-style: solid;
 }
 
 .b-b {
   border-bottom-width: $border-width;
+  border-style: solid;
 }
 
 .b-l {
   border-left-width: $border-width;
+  border-style: solid;
 }
 
 .b-primary {

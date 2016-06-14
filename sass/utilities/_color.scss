@@ -1,24 +1,23 @@
-.text-primary,
-.primary-color{
-  color:$primarycolor;
+.bg-primary {
+  background-color: $primary-color;
 }
-.text-success,
-.sucess-color{
-  color:$successcolor;
+
+.bg-success {
+  color: $success-color;
 }
-.text-info,
-.info-color{
-  color:$infocolor;
+
+.bg-info {
+  color: $info-color;
 }
-.text-warning,
-.warning-color{
-  color:$warningcolor;
+
+.bg-warning {
+  color: $warning-color;
 }
-.text-default,
-.default-color{
-  color:$defaultcolor;
+
+.bg-default {
+  color: $default-color;
 }
-.text-danger,
-.danger-color{
-  color:$dangercolor;
+
+.bg-danger {
+  color: $danger-color;
 }
