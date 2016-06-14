@@ -3,14 +3,12 @@ Css utility framework
 
 ### Utilities
 
-| Utility  | STATUS |
-|---|---|
-| Margin | [x] |
-| Padding | [ ] |
-| Border | [ ] |
-| Color | [ ] |
-| Font | [ ] |
-| Texography | [ ] |
+- [x] [Margin](#1-margin)
+- [x] [Padding] (#2-padding)
+- [ ] Border
+- [ ] Color
+- [ ] Font
+- [ ] Texography
 
 
 #### 1. Margin
