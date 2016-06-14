@@ -6,7 +6,9 @@
 /**
  * Padding Utility Variables
  **/
-/**  For Font */
+/**
+ * Font Utilities
+ */
 /** For Block */
 /* border */
 /*  Vertical Align */
@@ -307,22 +309,22 @@
 .p-y-xxlg {
   padding: 100px 0; }
 
-.xs-font {
+.font-xs, .h6 {
   font-size: 0.67em; }
 
-.sm-font {
+.font-sm, .h5 {
   font-size: 0.83em; }
 
-.md-font {
+.font-md, .h4 {
   font-size: 1em; }
 
-.lg-font {
+.font-lg, .h3 {
   font-size: 1.17em; }
 
-.xlg-font {
+.font-xlg, .h2 {
   font-size: 1.5em; }
 
-.xxlg-font {
+.font-xxlg, .h1 {
   font-size: 2em; }
 
 .d-block, .block {

@@ -6,8 +6,8 @@ Css utility framework
 - [x] [Margin](#1-margin)
 - [x] [Padding] (#2-padding)
 - [ ] Border
+- [x] [Font] (#2-font)
 - [ ] Color
-- [ ] Font
 - [ ] Texography
 
 
@@ -57,3 +57,13 @@ Css utility framework
 |  .p-y-sm  | padding-top: 10px, padding-bottom: 10px |
 
 > Same classes works for `xss,xs,md,lg,xlg,xxlg` just replace suffix with `sm`
+
+#### 3. Font
+| CLASS  | STYLE |
+|---| --- |
+|  .font-xs,   .h6  | font-size: 0.67em |
+|  .font-sm,   .h5  | font-size: 0.83em |
+|  .font-md,   .h4  | font-size: 1.00em |
+|  .font-lg,   .h3  | font-size: 1.17em |
+|  .font-xlg,  .h2  | font-size: 1.5em  |
+|  .font-xxlg, .h1  | font-size: 2em    |

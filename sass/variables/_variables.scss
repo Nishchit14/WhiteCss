@@ -3,15 +3,7 @@
 
 @import './margin.variable';
 @import './padding.variable';
-
-/**  For Font */
-
-$f-h1:2em;
-$f-h2 :1.5em;
-$f-h3 :1.17em;
-$f-h4 :1.00em;
-$f-h5 :0.83em;
-$f-h6 :0.67em;
+@import './font.variable';
 
 /** For Block */
 

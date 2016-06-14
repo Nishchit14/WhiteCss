@@ -1,18 +1,23 @@
-.xs-font{
-  font-size: $f-h6;
+.font-xs, .h6 {
+  font-size: $h6-font;
 }
-.sm-font{
-  font-size: $f-h5;
+
+.font-sm, .h5 {
+  font-size: $h5-font;
 }
-.md-font{
-  font-size: $f-h4;
+
+.font-md, .h4 {
+  font-size: $h4-font;
 }
-.lg-font{
-  font-size: $f-h3;
+
+.font-lg, .h3 {
+  font-size: $h3-font;
 }
-.xlg-font{
-  font-size: $f-h2;
+
+.font-xlg, .h2 {
+  font-size: $h2-font;
 }
-.xxlg-font{
-  font-size: $f-h1;
+
+.font-xxlg, .h1 {
+  font-size: $h1-font;
 }
