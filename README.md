@@ -7,7 +7,7 @@ Css utility framework
 - [x] [Padding] (#2-padding)
 - [x] [Font] (#3-font)
 - [x] [Border] (#4-border)
-- [x] [Color] (#5-Color)
+- [x] [Color] (#5-color)
 - [ ] Texography
 
 
@@ -22,6 +22,13 @@ Css utility framework
 |  .m-lg   | margin: 30px |
 |  .m-xlg  | margin: 50px |
 |  .m-xxlg | margin: 100px |
+|  .m-none | margin: 0 |
+|  .m-t-none | margin-top: 0 |
+|  .m-r-none | margin-right: 0 |
+|  .m-b-none | margin-bottom: 0 |
+|  .m-l-none | margin-left: 0 |
+|  .m-x-none | margin-left: 0; margin-right: 0 |
+|  .m-y-none | margin-top: 0; margin-bottom: 0 |
 
 | CLASS  | STYLE |
 |---| --- |
@@ -46,6 +53,13 @@ Css utility framework
 |  .p-lg   | padding: 30px |
 |  .p-xlg  | padding: 50px |
 |  .p-xxlg | padding: 100px |
+|  .p-none | padding: 0 |
+|  .p-t-none | padding-top: 0 |
+|  .p-r-none | padding-right: 0 |
+|  .p-b-none | padding-bottom: 0 |
+|  .p-l-none | padding-left: 0 |
+|  .p-x-none | padding-left: 0; padding-right: 0 |
+|  .p-y-none | padding-top: 0; padding-bottom: 0 |
 
 | CLASS  | STYLE |
 |---| --- |

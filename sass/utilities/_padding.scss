@@ -1,5 +1,36 @@
 /* padding and padding Sm size */
 
+//None
+.p-none {
+  padding: 0;
+}
+
+.p-t-none {
+  padding-top: 0;
+}
+
+.p-r-none {
+  padding-right: 0;
+}
+
+.p-b-none {
+  padding-bottom: 0;
+}
+
+.p-l-none {
+  padding-left: 0;
+}
+
+.p-x-none {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.p-y-none {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 //xss
 .p-xxs {
   padding: $p-xxs;
@@ -116,7 +147,6 @@
   padding: $p-md 0;
 }
 
-
 //lg
 .p-lg {
   padding: $p-lg;
@@ -146,7 +176,6 @@
   padding: $p-lg 0;
 }
 
-
 //xlg
 .p-xlg {
   padding: $p-xlg;
@@ -175,7 +204,6 @@
 .p-y-xlg {
   padding: $p-xlg 0;
 }
-
 
 //xxlg
 .p-xxlg {

@@ -16,6 +16,29 @@
 /*  Vertical Align */
 /* Align Content  */
 /* Margin and padding Sm size */
+.m-none {
+  margin: 0; }
+
+.m-t-none {
+  margin-top: 0; }
+
+.m-r-none {
+  margin-right: 0; }
+
+.m-b-none {
+  margin-bottom: 0; }
+
+.m-l-none {
+  margin-left: 0; }
+
+.m-x-none {
+  margin-left: 0;
+  margin-right: 0; }
+
+.m-y-none {
+  margin-top: 0;
+  margin-bottom: 0; }
+
 .m-xxs {
   margin: 2px; }
 
@@ -164,6 +187,29 @@
   margin: 100px 0; }
 
 /* padding and padding Sm size */
+.p-none {
+  padding: 0; }
+
+.p-t-none {
+  padding-top: 0; }
+
+.p-r-none {
+  padding-right: 0; }
+
+.p-b-none {
+  padding-bottom: 0; }
+
+.p-l-none {
+  padding-left: 0; }
+
+.p-x-none {
+  padding-left: 0;
+  padding-right: 0; }
+
+.p-y-none {
+  padding-top: 0;
+  padding-bottom: 0; }
+
 .p-xxs {
   padding: 2px; }
 

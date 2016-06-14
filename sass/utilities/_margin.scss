@@ -1,5 +1,36 @@
 /* Margin and padding Sm size */
 
+//None
+.m-none {
+  margin: 0;
+}
+
+.m-t-none {
+  margin-top: 0;
+}
+
+.m-r-none {
+  margin-right: 0;
+}
+
+.m-b-none {
+  margin-bottom: 0;
+}
+
+.m-l-none {
+  margin-left: 0;
+}
+
+.m-x-none {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.m-y-none {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 //xss
 .m-xxs {
   margin: $m-xxs;
@@ -116,7 +147,6 @@
   margin: $m-md 0;
 }
 
-
 //lg
 .m-lg {
   margin: $m-lg;
@@ -146,7 +176,6 @@
   margin: $m-lg 0;
 }
 
-
 //xlg
 .m-xlg {
   margin: $m-xlg;
@@ -175,7 +204,6 @@
 .m-y-xlg {
   margin: $m-xlg 0;
 }
-
 
 //xxlg
 .m-xxlg {
