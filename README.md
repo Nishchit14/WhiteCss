@@ -67,6 +67,12 @@ Css utility framework
 |  .font-lg,   .h3  | font-size: 1.17em |
 |  .font-xlg,  .h2  | font-size: 1.5em  |
 |  .font-xxlg, .h1  | font-size: 2em    |
+|  .text-primary    | color: #2e6da4  |
+|  .text-success    | color: #398439   |
+|  .text-default    | color: #cccccc   |
+|  .text-info       | color: #269abc   |
+|  .text-warning    | color: #d58512   |
+|  .text-danger     | color: #d43f3a   |
 
 
 #### 4. Border

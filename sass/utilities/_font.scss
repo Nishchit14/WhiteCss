@@ -21,3 +21,27 @@
 .font-xxlg, .h1 {
   font-size: $h1-font;
 }
+
+.text-primary {
+  color: $primary-color;
+}
+
+.text-success {
+  color: $success-color;
+}
+
+.text-info {
+  color: $info-color;
+}
+
+.text-default {
+  color: $default-color;
+}
+
+.text-warning {
+  color: $warning-color;
+}
+
+.text-danger {
+  color: $danger-color;
+}

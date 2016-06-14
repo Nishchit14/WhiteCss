@@ -329,6 +329,24 @@
 .font-xxlg, .h1 {
   font-size: 2em; }
 
+.text-primary {
+  color: #2e6da4; }
+
+.text-success {
+  color: #398439; }
+
+.text-info {
+  color: #269abc; }
+
+.text-default {
+  color: #ccc; }
+
+.text-warning {
+  color: #d58512; }
+
+.text-danger {
+  color: #d43f3a; }
+
 .d-block, .block {
   display: block; }
 
