@@ -1,270 +1,207 @@
-/* Margin and padding Sm size */
-.p-sm {
-  margin: $mp-sm;
-}
+/* padding and padding Sm size */
 
-.p-l-sm {
-  margin-left: $mp-sm;
-}
-
-.p-r-sm {
-  margin-right: $mp-sm;
-}
-
-.p-t-sm {
-  margin-top: $mp-sm;
-}
-
-.p-b-sm {
-  margin-bottom: $mp-sm;
-}
-.p-lr-sm, .p-rl-sm{
-  margin :0 $mp-sm;
-}
-
-.p-tb-sm , .p-bt-sm{
-  margin :$mp-sm 0;
-}
-.p-bl-sm,.p-lb-sm{
-  margin :0 0 $mp-sm $mp-sm
-}
-.p-lt-sm , .p-tl-sm {
-  margin :$mp-sm 0 0 $mp-sm
-}
-.p.rb-sm ,.p.br-sm{
-  margin :0 $mp-sm $mp-sm 0
-}
-
-
-
-
-
-
-
-/* Margin and padding lg size */
+//xss
 .p-xxs {
-  margin: $mp-xxs;
-}
-
-.p-l-xxs {
-  margin-left: $mp-xxs;
-}
-
-.p-r-lg {
-  margin-right: $mp-xxs;
+  padding: $p-xxs;
 }
 
 .p-t-xxs {
-  margin-top: $mp-xxs;
+  padding-top: $p-xxs;
+}
+
+.p-r-xxs {
+  padding-right: $p-xxs;
+}
+
+.p-l-xxs {
+  padding-left: $p-xxs;
 }
 
 .p-b-xxs {
-  margin-bottom: $mp-xxs;
-}
-.p-lr-xxs, .p-rl-xxs{
-  margin :0 $mp-xxs;
+  padding-bottom: $p-xxs;
 }
 
-.p-tb-xxs , .p-bt-xxs{
-  margin :$mp-xxs 0;
-}
-.p-bl-xxs,.p-lb-xxs{
-  margin :0 0 $mp-xxs $mp-xxs
-}
-.p-lt-xxs , .p-tl-xxs {
-  margin :$mp-xxs 0 0 $mp-xxs
-}
-.p.rb-xxs ,.p.br-xxs{
-  margin :0 $mp-xxs $mp-xxs 0
+.p-x-xxs {
+  padding: 0 $p-xxs;
 }
 
+.p-y-xxs {
+  padding: $p-xxs 0;
+}
 
-
-/* Margin and padding xs size */
+//xs
 .p-xs {
-  margin: $mp-xs;
-}
-
-.p-l-xs {
-  margin-left: $mp-xs;
-}
-
-.p-r-xs {
-  margin-right: $mp-xs;
+  padding: $p-xs;
 }
 
 .p-t-xs {
-  margin-top: $mp-xs;
+  padding-top: $p-xs;
+}
+
+.p-r-xs {
+  padding-right: $p-xs;
+}
+
+.p-l-xs {
+  padding-left: $p-xs;
 }
 
 .p-b-xs {
-  margin-bottom: $mp-xs;
-}
-.p-lr-xs, .p-rl-xs{
-  margin :0 $mp-xs;
+  padding-bottom: $p-xs;
 }
 
-.p-tb-xs , .p-bt-xs{
-  margin :$mp-xs 0;
-}
-.p-bl-xs,.p-lb-xs{
-  margin :0 0 $mp-xs $mp-xs
-}
-.p-lt-xs , .p-tl-xs {
-  margin :$mp-xs 0 0 $mp-xs
-}
-.p.rb-xs ,.p.br-xs{
-  margin :0 $mp-xs $mp-xs 0
+.p-x-xs {
+  padding: 0 $p-xs;
 }
 
+.p-y-xs {
+  padding: $p-xs 0;
+}
 
-/* Margin and padding md size */
+//sm
+.p-sm {
+  padding: $p-sm;
+}
+
+.p-t-sm {
+  padding-top: $p-sm;
+}
+
+.p-r-sm {
+  padding-right: $p-sm;
+}
+
+.p-l-sm {
+  padding-left: $p-sm;
+}
+
+.p-b-sm {
+  padding-bottom: $p-sm;
+}
+
+.p-x-sm {
+  padding: 0 $p-sm;
+}
+
+.p-y-sm {
+  padding: $p-sm 0;
+}
+
+//md
 .p-md {
-  margin: $mp-md;
-}
-
-.p-l-md {
-  margin-left: $mp-md;
-}
-
-.p-r-md {
-  margin-right: $mp-md;
+  padding: $p-md;
 }
 
 .p-t-md {
-  margin-top: $mp-md;
+  padding-top: $p-md;
+}
+
+.p-r-md {
+  padding-right: $p-md;
+}
+
+.p-l-md {
+  padding-left: $p-md;
 }
 
 .p-b-md {
-  margin-bottom: $mp-md;
-}
-.p-lr-md, .p-rl-md{
-  margin :0 $mp-md;
+  padding-bottom: $p-md;
 }
 
-.p-tb-md , .p-bt-md{
-  margin :$mp-md 0;
+.p-x-md {
+  padding: 0 $p-md;
 }
-.p-bl-md,.p-lb-md{
-  margin :0 0 $mp-md $mp-md
-}
-.p-lt-md , .p-tl-md {
-  margin :$mp-md 0 0 $mp-md
-}
-.p.rb-md ,.p.br-md{
-  margin :0 $mp-md $mp-md 0
+
+.p-y-md {
+  padding: $p-md 0;
 }
 
 
-/* Margin and padding lg size */
+//lg
 .p-lg {
-  margin: $mp-lg;
-}
-
-.p-l-lg {
-  margin-left: $mp-lg;
-}
-
-.p-r-lg {
-  margin-right: $mp-lg;
+  padding: $p-lg;
 }
 
 .p-t-lg {
-  margin-top: $mp-lg;
+  padding-top: $p-lg;
+}
+
+.p-r-lg {
+  padding-right: $p-lg;
+}
+
+.p-l-lg {
+  padding-left: $p-lg;
 }
 
 .p-b-lg {
-  margin-bottom: $mp-lg;
-}
-.p-lr-lg, .p-rl-lg{
-  margin :0 $mp-lg;
+  padding-bottom: $p-lg;
 }
 
-.p-tb-lg , .p-bt-lg{
-  margin :$mp-lg 0;
+.p-x-lg {
+  padding: 0 $p-lg;
 }
-.p-bl-lg,.p-lb-lg{
-  margin :0 0 $mp-lg $mp-lg
-}
-.p-lt-lg , .p-tl-lg {
-  margin :$mp-lg 0 0 $mp-lg
-}
-.p.rb-lg ,.p.br-lg{
-  margin :0 $mp-lg $mp-lg 0
+
+.p-y-lg {
+  padding: $p-lg 0;
 }
 
 
-/* Margin and padding xlg size */
+//xlg
 .p-xlg {
-  margin: $mp-xlg;
-}
-
-.p-l-xlg {
-  margin-left: $mp-xlg;
-}
-
-.p-r-xlg {
-  margin-right: $mp-xlg;
+  padding: $p-xlg;
 }
 
 .p-t-xlg {
-  margin-top: $mp-xlg;
+  padding-top: $p-xlg;
+}
+
+.p-r-xlg {
+  padding-right: $p-xlg;
+}
+
+.p-l-xlg {
+  padding-left: $p-xlg;
 }
 
 .p-b-xlg {
-  margin-bottom: $mp-xlg;
-}
-.p-lr-xlg, .p-rl-xlg{
-  margin :0 $mp-xlg;
+  padding-bottom: $p-xlg;
 }
 
-.p-tb-xlg , .p-bt-xlg{
-  margin :$mp-xlg 0;
+.p-x-xlg {
+  padding: 0 $p-xlg;
 }
-.p-bl-xlg,.p-lb-xlg{
-  margin :0 0 $mp-xlg $mp-xlg
-}
-.p-lt-xlg , .p-tl-xlg {
-  margin :$mp-xlg 0 0 $mp-xlg
-}
-.p.rb-xlg ,.p.br-xlg{
-  margin :0 $mp-xlg $mp-xlg 0
+
+.p-y-xlg {
+  padding: $p-xlg 0;
 }
 
 
-/* Margin and padding xxlg size */
+//xxlg
 .p-xxlg {
-  margin: $mp-xxlg;
-}
-
-.p-l-xxlg {
-  margin-left: $mp-xxlg;
-}
-
-.p-r-xxlg {
-  margin-right: $mp-xxlg;
+  padding: $p-xxlg;
 }
 
 .p-t-xxlg {
-  margin-top: $mp-xxlg;
+  padding-top: $p-xxlg;
+}
+
+.p-r-xxlg {
+  padding-right: $p-xxlg;
+}
+
+.p-l-xxlg {
+  padding-left: $p-xxlg;
 }
 
 .p-b-xxlg {
-  margin-bottom: $mp-xxlg;
-}
-.p-lr-xxlg, .p-rl-xxlg{
-  margin :0 $mp-xxlg;
+  padding-bottom: $p-xxlg;
 }
 
-.p-tb-xxlg , .p-bt-xxlg{
-  margin :$mp-xxlg 0;
+.p-x-xxlg {
+  padding: 0 $p-xxlg;
 }
-.p-bl-xxlg,.p-lb-xxlg{
-  margin :0 0 $mp-xxlg $mp-xxlg
-}
-.p-lt-xxlg , .p-tl-xxlg {
-  margin :$mp-xxlg 0 0 $mp-xxlg
-}
-.p.rb-xxlg ,.p.br-xxlg{
-  margin :0 $mp-xxlg $mp-xxlg 0
+
+.p-y-xxlg {
+  padding: $p-xxlg 0;
 }

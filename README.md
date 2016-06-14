@@ -35,3 +35,27 @@ Css utility framework
 |  .m-y-sm  | margin-top: 10px, margin-bottom: 10px |
 
 > Same classes works for `xss,xs,md,lg,xlg,xxlg` just replace suffix with `sm`
+
+
+#### 2. Padding
+
+| CLASS  | STYLE |
+|---| --- |
+|  .p-xxs  | padding: 2px |
+|  .p-xs   | padding: 5px |
+|  .p-sm   | padding: 10px |
+|  .p-md   | padding: 15px |
+|  .p-lg   | padding: 30px |
+|  .p-xlg  | padding: 50px |
+|  .p-xxlg | padding: 100px |
+
+| CLASS  | STYLE |
+|---| --- |
+|  .p-t-sm  | padding-top: 10px |
+|  .p-r-sm  | padding-right: 10px |
+|  .p-b-sm  | padding-bottom: 10px |
+|  .p-l-sm  | padding-left: 10px |
+|  .p-x-sm  | padding-left: 10px, padding-right: 10px |
+|  .p-y-sm  | padding-top: 10px, padding-bottom: 10px |
+
+> Same classes works for `xss,xs,md,lg,xlg,xxlg` just replace suffix with `sm`
