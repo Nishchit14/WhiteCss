@@ -1,33 +1,43 @@
-.b{
-  width: 1px;
+.b {
+  border-width: $border-width;
 }
-.b-b{
-  border-bottom-width: 1px;
+
+.b-t {
+  border-top-width: $border-width;
 }
-.b-r{
-  border-right-width: 1px;
+
+.b-r {
+  border-right-width: $border-width;
 }
-.b-l{
-  border-left-width: 1px;
+
+.b-b {
+  border-bottom-width: $border-width;
 }
-.b-t{
-  border-top-width: 1px;
+
+.b-l {
+  border-left-width: $border-width;
 }
-.b-c-primary{
-  border-color: $primarycolor;
+
+.b-primary {
+  border-color: $primary-color;
 }
-.b-c-success{
-  border-color: $successcolor;
+
+.b-success {
+  border-color: $success-color;
 }
-.b-c-default{
-  border-color: $defaultcolor;
+
+.b-default {
+  border-color: $default-color;
 }
-.b-c-info{
-  border-color: $infocolor;
+
+.b-info {
+  border-color: $info-color;
 }
-.b-c-warning{
-  border-color: $warningcolor;
+
+.b-warning {
+  border-color: $warning-color;
 }
-.b-c-danger{
-  border-color: $dangercolor;
+
+.b-danger {
+  border-color: $danger-color;
 }

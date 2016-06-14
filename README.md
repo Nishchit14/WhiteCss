@@ -5,8 +5,8 @@ Css utility framework
 
 - [x] [Margin](#1-margin)
 - [x] [Padding] (#2-padding)
-- [ ] Border
-- [x] [Font] (#2-font)
+- [x] [Font] (#3-font)
+- [x] [Border] (#4-border)
 - [ ] Color
 - [ ] Texography
 
@@ -67,3 +67,19 @@ Css utility framework
 |  .font-lg,   .h3  | font-size: 1.17em |
 |  .font-xlg,  .h2  | font-size: 1.5em  |
 |  .font-xxlg, .h1  | font-size: 2em    |
+
+
+#### 4. Border
+| CLASS  | STYLE |
+|---| --- |
+| .b    | border-width: 1px |
+| .b-t  | border-top-width: 1px |
+| .b-r  | border-right-width: 1px |
+| .b-b  | border-bottom-width: 1px |
+| .b-l  | border-left-width: 1px |
+| .b-primary  | border-color: #2e6da4 |
+| .b-success  | border-color: #398439 |
+| .b-default  | border-color: #cccccc |
+| .b-info     | border-color: #269abc |
+| .b-warning  | border-color: #d58512 |
+| .b-danger   | border-color: #d43f3a |

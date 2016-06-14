@@ -9,8 +9,10 @@
 /**
  * Font Utilities
  */
+/**
+ *border utilities
+ **/
 /** For Block */
-/* border */
 /*  Vertical Align */
 /* Align Content  */
 /* Margin and padding Sm size */
@@ -385,36 +387,36 @@
   display: list-item; }
 
 .b {
-  width: 1px; }
-
-.b-b {
-  border-bottom-width: 1px; }
-
-.b-r {
-  border-right-width: 1px; }
-
-.b-l {
-  border-left-width: 1px; }
+  border-width: 1px; }
 
 .b-t {
   border-top-width: 1px; }
 
-.b-c-primary {
+.b-r {
+  border-right-width: 1px; }
+
+.b-b {
+  border-bottom-width: 1px; }
+
+.b-l {
+  border-left-width: 1px; }
+
+.b-primary {
   border-color: #2e6da4; }
 
-.b-c-success {
+.b-success {
   border-color: #398439; }
 
-.b-c-default {
+.b-default {
   border-color: #ccc; }
 
-.b-c-info {
+.b-info {
   border-color: #269abc; }
 
-.b-c-warning {
+.b-warning {
   border-color: #d58512; }
 
-.b-c-danger {
+.b-danger {
   border-color: #d43f3a; }
 
 .v-baseline {

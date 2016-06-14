@@ -4,6 +4,7 @@
 @import './margin.variable';
 @import './padding.variable';
 @import './font.variable';
+@import './border.variable';
 
 /** For Block */
 
@@ -27,16 +28,6 @@ $d-table-row: table-row;
 $d-table-caption: table-caption;
 $d-compact:compact;
 $d-list-item:list-item;
-
-
-/* border */
-$primarycolor:#2e6da4;
-$successcolor:#398439;
-$defaultcolor:#ccc;
-$infocolor:#269abc;
-$warningcolor:#d58512;
-$dangercolor:#d43f3a;
-
 
 
 /*  Vertical Align */
