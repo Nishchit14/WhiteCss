@@ -1,0 +1,28 @@
+{
+  "name": "WhiteCss",
+  "homepage": "https://github.com/Nishchit14/WhiteCss",
+  "authors": [
+    "Nishchit Dhanani <dnishchit@gmail.com>"
+  ],
+  "description": "CSS utility framework",
+  "main": "css/app.min.css",
+  "keywords": [
+    "margin",
+    "padding",
+    "utility",
+    "white",
+    "css",
+    "sass",
+    "font",
+    "color",
+    "utility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
