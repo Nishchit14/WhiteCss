@@ -1,7 +1,7 @@
 {
   "name": "whitecss",
   "version": "0.0.1",
-  "description": "CSS utility framework, whitecss provides many usable class utility for margin, padding, font, color etc.",
+  "description": "WhiteCSS is CSS utility framework, whitecss provides many usable class utilities for margin, padding, border, font, color etc.",
   "main": "css/app.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,7 @@
     "font"
   ],
   "author": "Nishchit Dhanani <dnishchit@gmail.com> (jsbot.io)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Nishchit14/WhiteCss/issues"
   },

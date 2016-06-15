@@ -1,5 +1,12 @@
 # WhiteCss
-Css utility framework
+WhiteCSS is CSS utility framework, whitecss provides many usable class utilities for margin, padding, border, font, color etc.
+
+#### Using npm
+> `npm install whitecss --save`
+
+#### Using bower
+> `bower install whitecss --save`
+
 
 ### Utilities
 
