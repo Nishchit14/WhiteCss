@@ -1,5 +1,23 @@
 /* Margin and padding Sm size */
 
+//Common
+.m-auto {
+  margin: auto;
+}
+
+.m-l-auto {
+  margin-left: auto
+}
+
+.m-r-auto {
+  margin-right: auto
+}
+
+.m-x-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 //None
 .m-none {
   margin: 0;
@@ -53,7 +71,8 @@
 }
 
 .m-x-xxs {
-  margin: 0 $m-xxs;
+  margin-left: $m-xxs;
+  margin-right: $m-xxs;
 }
 
 .m-y-xxs {
@@ -82,7 +101,8 @@
 }
 
 .m-x-xs {
-  margin: 0 $m-xs;
+  margin-left: $m-xs;
+  margin-right: $m-xs;
 }
 
 .m-y-xs {
@@ -111,11 +131,13 @@
 }
 
 .m-x-sm {
-  margin: 0 $m-sm;
+  margin-left: $m-sm;
+  margin-right: $m-sm;
 }
 
 .m-y-sm {
-  margin: $m-sm 0;
+  margin-top: $m-sm;
+  margin-bottom: $m-sm;
 }
 
 //md
@@ -140,11 +162,13 @@
 }
 
 .m-x-md {
-  margin: 0 $m-md;
+  margin-left: $m-md;
+  margin-right: $m-md;
 }
 
 .m-y-md {
-  margin: $m-md 0;
+  margin-top: $m-md;
+  margin-bottom: $m-md;
 }
 
 //lg
@@ -169,11 +193,13 @@
 }
 
 .m-x-lg {
-  margin: 0 $m-lg;
+  margin-left: $m-lg;
+  margin-right: $m-lg;
 }
 
 .m-y-lg {
-  margin: $m-lg 0;
+  margin-top: $m-lg;
+  margin-bottom: $m-lg;
 }
 
 //xlg
@@ -198,11 +224,13 @@
 }
 
 .m-x-xlg {
-  margin: 0 $m-xlg;
+  margin-left: $m-xlg;
+  margin-right: $m-xlg;
 }
 
 .m-y-xlg {
-  margin: $m-xlg 0;
+  margin-top: $m-xlg;
+  margin-bottom: $m-xlg;
 }
 
 //xxlg
@@ -227,9 +255,11 @@
 }
 
 .m-x-xxlg {
-  margin: 0 $m-xxlg;
+  margin-left: $m-xxlg;
+  margin-right: $m-xxlg;
 }
 
 .m-y-xxlg {
-  margin: $m-xxlg 0;
+  margin-top: $m-xxlg;
+  margin-bottom: $m-xxlg;
 }

@@ -15,7 +15,9 @@ WhiteCSS is CSS utility framework, whitecss provides many usable class utilities
 - [x] [Font] (#3-font)
 - [x] [Border] (#4-border)
 - [x] [Color] (#5-color)
-- [ ] Texography
+- [x] [Position] (#6-position)
+- [x] [Width] (#7-width)
+- [x] [Typography] (#8-typography)
 
 
 #### 1. Margin
@@ -36,6 +38,11 @@ WhiteCSS is CSS utility framework, whitecss provides many usable class utilities
 |  .m-l-none | margin-left: 0 |
 |  .m-x-none | margin-left: 0; margin-right: 0 |
 |  .m-y-none | margin-top: 0; margin-bottom: 0 |
+| --- | --- |
+|  .m-auto | margin: auto |
+|  .m-l-auto | margin-left: auto |
+|  .m-r-auto | margin-right: auto |
+|  .m-x-auto | margin-left: auto; margin-right: auto |
 
 | CLASS  | STYLE |
 |---| --- |
@@ -82,13 +89,13 @@ WhiteCSS is CSS utility framework, whitecss provides many usable class utilities
 #### 3. Font
 | CLASS  | STYLE |
 |---| --- |
-|  .font-xs,   .h6  | font-size: 0.67em |
-|  .font-sm,   .h5  | font-size: 0.83em |
-|  .font-md,   .h4  | font-size: 1.00em |
-|  .font-lg,   .h3  | font-size: 1.17em |
-|  .font-xlg,  .h2  | font-size: 1.5em  |
-|  .font-xxlg, .h1  | font-size: 2em    |
-|  .text-primary    | color: #2e6da4  |
+|  .font-xs,   .h6  | font-size: 12px |
+|  .font-sm,   .h5  | font-size: 14px |
+|  .font-md,   .h4  | font-size: 18px |
+|  .font-lg,   .h3  | font-size: 24px |
+|  .font-xlg,  .h2  | font-size: 30px  |
+|  .font-xxlg, .h1  | font-size: 36px  |
+|  .text-primary    | color: #2e6da4   |
 |  .text-success    | color: #398439   |
 |  .text-default    | color: #cccccc   |
 |  .text-info       | color: #269abc   |
@@ -120,3 +127,50 @@ WhiteCSS is CSS utility framework, whitecss provides many usable class utilities
 | .bg-info     | background-color: #269abc |
 | .bg-warning  | background-color: #d58512 |
 | .bg-danger   | background-color: #d43f3a |
+
+#### 6. Position
+| CLASS  | STYLE |
+|---| --- |
+| .p-relative  | position: relative |
+| .p-absolute  | position: absolute |
+| .p-fixed     | position: fixed    |
+| .p-static    | position: static   |
+
+#### 7. Width
+| CLASS  | STYLE |
+|---| --- |
+| .w-10  | width: 10% !important |
+| .w-20  | width: 20% !important |
+| .w-25  | width: 25% !important |
+| .w-30  | width: 30% !important |
+| .w-40  | width: 40% !important |
+| .w-50  | width: 50% !important |
+| .w-60  | width: 60% !important |
+| .w-70  | width: 70% !important |
+| .w-75  | width: 75% !important |
+| .w-80  | width: 80% !important |
+| .w-90  | width: 90% !important |
+| .w-100  | width: 100% !important |
+| ---  | --- |
+| .w-xss  | width: 50px !important |
+| .w-xs  | width: 100px !important |
+| .w-sm  | width: 150px !important |
+| .w-md  | width: 300px !important |
+| .w-lg  | width: 500px !important |
+| .w-xlg  | width: 750px !important |
+| .w-xxlg  | width: 900px !important |
+
+#### 8. Typography
+| CLASS  | STYLE |
+|---| --- |
+|.t-bold |  font-weight: bold;  |
+|.t-regular |  font-weight: 400;  |
+|.t-italic |  font-style: italic;  |
+|.t-capital | text-transform: uppercase;  letter-spacing: .25em;  |
+|.t-left | text-align: left  |
+|.t-center | text-align: center  |
+|.t-right | text-align: right  |
+|.t-justify | text-align: justify  |
+|.t-no-wrap | white-space: nowrap  |
+|.t-underline | text-decoration: underline  |
+|.t-deco-none | text-decoration: none  |
