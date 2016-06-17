@@ -1,6 +1,6 @@
 {
   "name": "whitecss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "WhiteCSS is CSS utility framework, whitecss provides many usable class utilities for margin, padding, border, font, color etc.",
   "main": "css/app.min.css",
   "scripts": {
@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/Nishchit14/WhiteCss/issues"
   },
-  "homepage": "https://github.com/Nishchit14/WhiteCss#readme"
+  "homepage": "https://github.com/Nishchit14/WhiteCss#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bump": "^0.8.0",
+    "grunt-cli": "^1.2.0"
+  }
 }
